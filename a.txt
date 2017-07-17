@@ -2,10 +2,6 @@ this is some test text
 
 another line of text
 
-a + b = d
-
-I added a new line
-
-I unstack the changes
+a + b + c = d
 
 alternate historys: neat
