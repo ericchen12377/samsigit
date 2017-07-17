@@ -5,3 +5,7 @@ another line of text
 a + b = d
 
 I added a new line
+
+I unstack the changes
+
+alternate historys: neat

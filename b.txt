@@ -1,0 +1,2 @@
+now b.txt has text!
+another line of text
